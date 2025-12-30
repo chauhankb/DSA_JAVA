@@ -1,0 +1,26 @@
+class Solution {
+    public void rotate(int[] nums, int k) {
+
+        if(nums.length<=1){
+            return;
+        }
+         k = k %(nums.length);
+       reverse(nums,0,nums.length-1);
+        reverse(nums,0,k-1);
+         reverse(nums,k,nums.length-1);
+
+    }
+
+    void reverse(int a[],int l,int r){
+       // l=0;
+       // r=nums.length-1;
+
+        while(l<r){
+            int temp=a[l];
+            a[l]=a[r];
+            a[r]=temp;
+            l++;
+            r--;
+        }
+    }
+}
