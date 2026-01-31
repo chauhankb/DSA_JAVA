@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/chauhankb/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/chauhankb/DSA_JAVA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/chauhankb/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/chauhankb/DSA_JAVA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/chauhankb/DSA_JAVA/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1929-concatenation-of-array) |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/chauhankb/DSA_JAVA/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/chauhankb/DSA_JAVA/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/chauhankb/DSA_JAVA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
