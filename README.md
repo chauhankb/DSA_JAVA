@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/chauhankb/DSA_JAVA/tree/master/0189-rotate-array) |
 | [0682-baseball-game](https://github.com/chauhankb/DSA_JAVA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/chauhankb/DSA_JAVA/tree/master/0704-binary-search) |
+| [1929-concatenation-of-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/chauhankb/DSA_JAVA/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
