@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/chauhankb/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/chauhankb/DSA_JAVA/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chauhankb/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/chauhankb/DSA_JAVA/tree/master/0682-baseball-game) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/chauhankb/DSA_JAVA/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/chauhankb/DSA_JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/chauhankb/DSA_JAVA/tree/master/0704-binary-search) |
@@ -71,9 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
