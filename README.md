@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/chauhankb/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/chauhankb/DSA_JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/chauhankb/DSA_JAVA/tree/master/0217-contains-duplicate) |
+| [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/chauhankb/DSA_JAVA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/chauhankb/DSA_JAVA/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1929-concatenation-of-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/chauhankb/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/chauhankb/DSA_JAVA/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/chauhankb/DSA_JAVA/tree/master/0704-binary-search) |
 ## Interactive
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/chauhankb/DSA_JAVA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/chauhankb/DSA_JAVA/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -64,4 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/chauhankb/DSA_JAVA/tree/master/0217-contains-duplicate) |
+| [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
