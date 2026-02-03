@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/chauhankb/DSA_JAVA/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
