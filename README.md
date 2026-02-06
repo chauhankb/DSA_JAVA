@@ -102,4 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/chauhankb/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/chauhankb/DSA_JAVA/tree/master/1325-delete-leaves-with-a-given-value) |
+## Depth-First Search
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/chauhankb/DSA_JAVA/tree/master/1325-delete-leaves-with-a-given-value) |
+## Binary Tree
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/chauhankb/DSA_JAVA/tree/master/1325-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->
