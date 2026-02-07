@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/chauhankb/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/chauhankb/DSA_JAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/chauhankb/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/chauhankb/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/chauhankb/DSA_JAVA/tree/master/0189-rotate-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/chauhankb/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/chauhankb/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/chauhankb/DSA_JAVA/tree/master/0217-contains-duplicate) |
 ## Sorting
@@ -123,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/chauhankb/DSA_JAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/chauhankb/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
