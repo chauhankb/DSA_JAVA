@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/chauhankb/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/chauhankb/DSA_JAVA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/chauhankb/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/chauhankb/DSA_JAVA/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/chauhankb/DSA_JAVA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -120,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chauhankb/DSA_JAVA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
