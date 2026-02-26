@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/chauhankb/DSA_JAVA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/chauhankb/DSA_JAVA/tree/master/0189-rotate-array) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chauhankb/DSA_JAVA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chauhankb/DSA_JAVA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
