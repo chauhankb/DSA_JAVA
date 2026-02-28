@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/chauhankb/DSA_JAVA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/chauhankb/DSA_JAVA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/chauhankb/DSA_JAVA/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/chauhankb/DSA_JAVA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/chauhankb/DSA_JAVA/tree/master/0704-binary-search) |
