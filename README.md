@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/chauhankb/DSA_JAVA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/chauhankb/DSA_JAVA/tree/master/0189-rotate-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chauhankb/DSA_JAVA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/chauhankb/DSA_JAVA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/chauhankb/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/chauhankb/DSA_JAVA/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
 | ------- |
