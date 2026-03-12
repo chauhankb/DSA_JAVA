@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/chauhankb/DSA_JAVA/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/chauhankb/DSA_JAVA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/chauhankb/DSA_JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chauhankb/DSA_JAVA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/chauhankb/DSA_JAVA/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/chauhankb/DSA_JAVA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/chauhankb/DSA_JAVA/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chauhankb/DSA_JAVA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chauhankb/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/chauhankb/DSA_JAVA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/chauhankb/DSA_JAVA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/chauhankb/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/chauhankb/DSA_JAVA/tree/master/0205-isomorphic-strings) |
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/chauhankb/DSA_JAVA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
