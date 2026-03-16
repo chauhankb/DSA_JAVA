@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/chauhankb/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
 ## Simulation
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/chauhankb/DSA_JAVA/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chauhankb/DSA_JAVA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1903-largest-odd-number-in-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Database
 |  |
 | ------- |
