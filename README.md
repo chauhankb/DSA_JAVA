@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chauhankb/DSA_JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chauhankb/DSA_JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/chauhankb/DSA_JAVA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/chauhankb/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chauhankb/DSA_JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/chauhankb/DSA_JAVA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3643-flip-square-submatrix-vertically](https://github.com/chauhankb/DSA_JAVA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Monotonic Queue
