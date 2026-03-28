@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/chauhankb/DSA_JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/chauhankb/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/chauhankb/DSA_JAVA/tree/master/0682-baseball-game) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Design
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/chauhankb/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chauhankb/DSA_JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -192,12 +194,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0799-champagne-tower](https://github.com/chauhankb/DSA_JAVA/tree/master/0799-champagne-tower) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/chauhankb/DSA_JAVA/tree/master/2573-find-the-string-with-lcp) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1903-largest-odd-number-in-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [2573-find-the-string-with-lcp](https://github.com/chauhankb/DSA_JAVA/tree/master/2573-find-the-string-with-lcp) |
 ## Union-Find
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/chauhankb/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Divide and Conquer
 |  |
 | ------- |
