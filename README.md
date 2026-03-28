@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/chauhankb/DSA_JAVA/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/chauhankb/DSA_JAVA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chauhankb/DSA_JAVA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3546-equal-sum-grid-partition-i](https://github.com/chauhankb/DSA_JAVA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/chauhankb/DSA_JAVA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chauhankb/DSA_JAVA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1903-largest-odd-number-in-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1903-largest-odd-number-in-string) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chauhankb/DSA_JAVA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1980-find-unique-binary-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chauhankb/DSA_JAVA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sorting
 |  |
