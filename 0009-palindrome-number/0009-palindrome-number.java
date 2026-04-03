@@ -11,14 +11,6 @@ class Solution {
                 x=x/10;
         }
 
-        if(orignal==rev){
-            return true;
-        }
-        else{
-            return false;
-        }
-
-
-        
+        return rev==orignal;
     }
 }
