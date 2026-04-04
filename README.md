@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chauhankb/DSA_JAVA/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/chauhankb/DSA_JAVA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1929-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/chauhankb/DSA_JAVA/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/chauhankb/DSA_JAVA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/chauhankb/DSA_JAVA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/chauhankb/DSA_JAVA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chauhankb/DSA_JAVA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
