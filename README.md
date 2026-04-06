@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/chauhankb/DSA_JAVA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/chauhankb/DSA_JAVA/tree/master/0704-binary-search) |
+| [0874-walking-robot-simulation](https://github.com/chauhankb/DSA_JAVA/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/chauhankb/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chauhankb/DSA_JAVA/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/chauhankb/DSA_JAVA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/chauhankb/DSA_JAVA/tree/master/0682-baseball-game) |
+| [0874-walking-robot-simulation](https://github.com/chauhankb/DSA_JAVA/tree/master/0874-walking-robot-simulation) |
 | [1929-concatenation-of-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/chauhankb/DSA_JAVA/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Binary Search
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chauhankb/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/chauhankb/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
+| [0874-walking-robot-simulation](https://github.com/chauhankb/DSA_JAVA/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1980-find-unique-binary-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
