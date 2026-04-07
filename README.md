@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/chauhankb/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/chauhankb/DSA_JAVA/tree/master/0232-implement-queue-using-stacks) |
+| [2069-walking-robot-simulation-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/2069-walking-robot-simulation-ii) |
 ## Queue
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/chauhankb/DSA_JAVA/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/chauhankb/DSA_JAVA/tree/master/0874-walking-robot-simulation) |
 | [1929-concatenation-of-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1929-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/chauhankb/DSA_JAVA/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Binary Search
 |  |
