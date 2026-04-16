@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chauhankb/DSA_JAVA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chauhankb/DSA_JAVA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chauhankb/DSA_JAVA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/chauhankb/DSA_JAVA/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/chauhankb/DSA_JAVA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/chauhankb/DSA_JAVA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/chauhankb/DSA_JAVA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/chauhankb/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
+| [3488-closest-equal-element-queries](https://github.com/chauhankb/DSA_JAVA/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chauhankb/DSA_JAVA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Interactive
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chauhankb/DSA_JAVA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chauhankb/DSA_JAVA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3488-closest-equal-element-queries](https://github.com/chauhankb/DSA_JAVA/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chauhankb/DSA_JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
