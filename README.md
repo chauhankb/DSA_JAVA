@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/chauhankb/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/chauhankb/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/chauhankb/DSA_JAVA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/chauhankb/DSA_JAVA/tree/master/2573-find-the-string-with-lcp) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-delete-leaves-with-a-given-value](https://github.com/chauhankb/DSA_JAVA/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/chauhankb/DSA_JAVA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/chauhankb/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chauhankb/DSA_JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -357,5 +361,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
