@@ -1,18 +1,18 @@
-public class Solution {
-    public void rotate(int[][] matrix) {
-        int n = matrix.length;
-        int[][] rotated = new int[n][n];
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                rotated[j][n - 1 - i] = matrix[i][j];
+// Added using AI
+class Solution {
+    public void rotate(int[][] grid) {
+        int n = grid.length;
+        for (int i = 0; i < n; i++)
+            for (int j = i; j < n; j++) {
+                int tmp = grid[i][j] ;
+                grid[i][j] = grid[j][i];
+                grid[j][i] = tmp ;
             }
-        }
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                matrix[i][j] = rotated[i][j];
+        for (int i = 0; i < n; i++)
+            for (int j = 0; j < n/2; j++) {
+                int tmp = grid[i][j] ;
+                grid[i][j] = grid[i][n-j-1];
+                grid[i][n-j-1] = tmp ;
             }
-        }
     }
 }
