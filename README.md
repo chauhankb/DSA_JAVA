@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/chauhankb/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1306-jump-game-iii](https://github.com/chauhankb/DSA_JAVA/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/chauhankb/DSA_JAVA/tree/master/1306-jump-game-iii) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/chauhankb/DSA_JAVA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/chauhankb/DSA_JAVA/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
