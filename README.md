@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chauhankb/DSA_JAVA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/chauhankb/DSA_JAVA/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/chauhankb/DSA_JAVA/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/chauhankb/DSA_JAVA/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/2906-construct-product-matrix) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/chauhankb/DSA_JAVA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/chauhankb/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
+| [2540-minimum-common-value](https://github.com/chauhankb/DSA_JAVA/tree/master/2540-minimum-common-value) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/chauhankb/DSA_JAVA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/chauhankb/DSA_JAVA/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chauhankb/DSA_JAVA/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/chauhankb/DSA_JAVA/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/chauhankb/DSA_JAVA/tree/master/0876-middle-of-the-linked-list) |
+| [2540-minimum-common-value](https://github.com/chauhankb/DSA_JAVA/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/chauhankb/DSA_JAVA/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1980-find-unique-binary-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/chauhankb/DSA_JAVA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/chauhankb/DSA_JAVA/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chauhankb/DSA_JAVA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
