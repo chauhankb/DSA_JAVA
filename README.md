@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/chauhankb/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/chauhankb/DSA_JAVA/tree/master/0657-robot-return-to-origin) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/chauhankb/DSA_JAVA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/chauhankb/DSA_JAVA/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/chauhankb/DSA_JAVA/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1871-jump-game-vii](https://github.com/chauhankb/DSA_JAVA/tree/master/1871-jump-game-vii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/chauhankb/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chauhankb/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1871-jump-game-vii](https://github.com/chauhankb/DSA_JAVA/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/chauhankb/DSA_JAVA/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/chauhankb/DSA_JAVA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/chauhankb/DSA_JAVA/tree/master/0799-champagne-tower) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/chauhankb/DSA_JAVA/tree/master/1871-jump-game-vii) |
 | [2573-find-the-string-with-lcp](https://github.com/chauhankb/DSA_JAVA/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chauhankb/DSA_JAVA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chauhankb/DSA_JAVA/tree/master/3661-maximum-walls-destroyed-by-robots) |
