@@ -1,6 +1,32 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        ArrayList<Integer> a1=new ArrayList<>();
+
+        int n=nums.length;
+        if(n<=1){
+            return n;
+        }
+
+        int k=1;
+        for(int i=1;i<n;i++){
+           if(nums[i]!=nums[i-1]){
+             nums[k]=nums[i];
+             k++;
+           }
+        }
+
+
+
+        return k;
+
+
+
+
+
+
+
+
+
+      /*  ArrayList<Integer> a1=new ArrayList<>();
 
         int n=nums.length;
         if(n<=1){
@@ -18,7 +44,7 @@ class Solution {
             nums[i]=a1.get(i);
         }
 
-        return a1.size();
+        return a1.size();*/
         
     }
 }
