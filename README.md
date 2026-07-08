@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/chauhankb/DSA_JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chauhankb/DSA_JAVA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/chauhankb/DSA_JAVA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/chauhankb/DSA_JAVA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/chauhankb/DSA_JAVA/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/chauhankb/DSA_JAVA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/chauhankb/DSA_JAVA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Database
 |  |
 | ------- |
