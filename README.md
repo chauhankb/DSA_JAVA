@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chauhankb/DSA_JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/chauhankb/DSA_JAVA/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chauhankb/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/chauhankb/DSA_JAVA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/chauhankb/DSA_JAVA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chauhankb/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chauhankb/DSA_JAVA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/chauhankb/DSA_JAVA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chauhankb/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/chauhankb/DSA_JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [2540-minimum-common-value](https://github.com/chauhankb/DSA_JAVA/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/chauhankb/DSA_JAVA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chauhankb/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/chauhankb/DSA_JAVA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/chauhankb/DSA_JAVA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chauhankb/DSA_JAVA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chauhankb/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -396,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chauhankb/DSA_JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chauhankb/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
