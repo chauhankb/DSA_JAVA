@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/chauhankb/DSA_JAVA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/chauhankb/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/chauhankb/DSA_JAVA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/chauhankb/DSA_JAVA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/chauhankb/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chauhankb/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/chauhankb/DSA_JAVA/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0799-champagne-tower](https://github.com/chauhankb/DSA_JAVA/tree/master/0799-champagne-tower) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chauhankb/DSA_JAVA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/chauhankb/DSA_JAVA/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/chauhankb/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/chauhankb/DSA_JAVA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
