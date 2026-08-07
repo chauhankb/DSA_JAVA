@@ -14,18 +14,16 @@ class Solution {
 
         return ms;*/
 
+    int cs=0;
+    int ms=Integer.MIN_VALUE;
+
+    for(int i=0;i<nums.length;i++){
+        cs=Math.max(cs+nums[i],nums[i]);
+        ms=Math.max(cs,ms);
+    }
+
+    return ms;
 
 
-
-        int cs=0;
-        int ms=Integer.MIN_VALUE;
-
-        for(int i=0;i<nums.length;i++){
-            cs=Math.max(cs+nums[i],nums[i]);
-            ms=Math.max(cs,ms);
-
-            
-        }
-       return ms;
     }
 }
