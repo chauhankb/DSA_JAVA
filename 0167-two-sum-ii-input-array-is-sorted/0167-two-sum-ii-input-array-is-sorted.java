@@ -1,19 +1,25 @@
-public class Solution {
+class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        for (int i = 0; i < numbers.length; i++) {
-            int l = i + 1, r = numbers.length - 1;
-            int tmp = target - numbers[i];
-            while (l <= r) {
-                int mid = l + (r - l) / 2;
-                if (numbers[mid] == tmp) {
-                    return new int[] { i + 1, mid + 1 };
-                } else if (numbers[mid] < tmp) {
-                    l = mid + 1;
-                } else {
-                    r = mid - 1;
-                }
+        int l=0;
+        int r=numbers.length-1;
+
+        while(l<r){
+            int sum = numbers[l]+numbers[r];
+
+            if(sum==target){
+                return new int[]{l+1,r+1};
             }
+
+            if(sum<target){
+                l++;
+            }
+
+            else{
+                r--;
+            }
+
         }
-        return new int[0];
+
+        return new int[]{-1,-1};
     }
 }
