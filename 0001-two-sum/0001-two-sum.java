@@ -2,6 +2,23 @@ class Solution {
     public int[] twoSum(int[] nums, int target) {
        // Arrays.sort(nums);
         int sum=0;
+
+        HashMap<Integer,Integer> hm=new HashMap<>();
+
+        for(int i=0;i<nums.length;i++){
+            int first=nums[i];
+            int second=target-first;
+
+            if(hm.containsKey(second)){
+                return new int[]{hm.get(second),i};
+            }
+
+            hm.put(nums[i],i);
+        }
+        return new int[]{-1,-1};
+
+
+
         /*for(int i=0;i<nums.length;i++){
             for(int j=i+1;j<nums.length;j++){
                 sum=nums[i]+nums[j];
@@ -32,7 +49,7 @@ class Solution {
         }*/
 
 
-        HashMap<Integer,Integer> hm=new HashMap<>();
+       /* HashMap<Integer,Integer> hm=new HashMap<>();
 
         for(int i=0;i<nums.length;i++){
             int first=nums[i];
@@ -45,7 +62,16 @@ class Solution {
             hm.put(nums[i],i);
         }
 
-        return new int[]{-1,-1};
+        return new int[]{-1,-1};*/
+
+
+
+
+
+
+
+
+
 
     }
 }
