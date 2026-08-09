@@ -10,14 +10,13 @@ class Solution {
 
         while(r>=l){
             if(a.charAt(l)!=a.charAt(r)){
-               pa=false;
-               break;
+              return false;
             }
             l++;
             r--;
         }
 
-        return pa;
+        return true;
 
     }
 }
