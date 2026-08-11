@@ -7,6 +7,7 @@ class Solution {
 
         int lmb[]=new int[n];
         lmb[0]=height[0];
+
         for(int i=1;i<n;i++){
             lmb[i]=Math.max(height[i],lmb[i-1]);
         }
@@ -17,14 +18,11 @@ class Solution {
             rmb[i]=Math.max(height[i],rmb[i+1]);
         }
 
-        int sum=0;
-
+            int sum=0;
         for(int i=0;i<n;i++){
-            sum= sum+ (Math.min(lmb[i],rmb[i])) - height[i];
+            sum=sum+ (Math.min(lmb[i],rmb[i]) -height[i] );
         }
-
-        
-
-        return sum;
+       
+       return sum;
     }
 }
