@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/chauhankb/DSA_JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [2540-minimum-common-value](https://github.com/chauhankb/DSA_JAVA/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/chauhankb/DSA_JAVA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3794-reverse-string-prefix](https://github.com/chauhankb/DSA_JAVA/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chauhankb/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/chauhankb/DSA_JAVA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/chauhankb/DSA_JAVA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chauhankb/DSA_JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3794-reverse-string-prefix](https://github.com/chauhankb/DSA_JAVA/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
